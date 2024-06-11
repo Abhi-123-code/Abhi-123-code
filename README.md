@@ -1,3 +1,4 @@
+<img src="Abhi github.png"/>
 <h1 align="center">Hi 👋, I'm Bellam Abhimanyu</h1>
 <h3 align="center">Passionate about leveraging cutting-edge technologies to create meaningful solutions and explore new frontiers. I thrive in dynamic environments where learning is continuous and innovation is encouraged. With a keen eye for detail and a knack for problem-solving, I am driven by the desire to make a positive impact through technology.</h3>
 
@@ -12,7 +13,9 @@
 - 📫 How to reach me **bellamabhi.5@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rBAzer3N29qFASTFKgdWhwFp62A8R986/view?usp=sharing](https://drive.google.com/file/d/1rBAzer3N29qFASTFKgdWhwFp62A8R986/view?usp=sharing)
-
+<div align="center">
+<img src="https://cdn.dribbble.com/users/235897/screenshots/1712148/3dprinter.gif"   />
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bellamabhimanyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bellamabhimanyu" height="30" width="40" /></a>
