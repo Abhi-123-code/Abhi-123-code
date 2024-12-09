@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Bellam Abhimanyu</h1>
 <h3 align="center">Passionate about leveraging cutting-edge technologies to create meaningful solutions and explore new frontiers. I thrive in dynamic environments where learning is continuous and innovation is encouraged. With a keen eye for detail and a knack for problem-solving, I am driven by the desire to make a positive impact through technology.</h3>
 
-- 🔭 I’m currently working on **E-Commerce Project**
+- 🔭 I’m currently working on **Full Stack Java Project**
 
-- 🌱 I’m currently learning **Node.js ,MERN , Devops**
+- 🌱 I’m currently learning **React & spring framework*
 
 - 👨‍💻 All of my projects are available at [https://abhi-123-code.github.io/Abhimanyu-Portfolio/](https://abhi-123-code.github.io/Abhimanyu-Portfolio/)
 
